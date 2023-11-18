@@ -17,3 +17,4 @@ Here are some ideas to get you started:
 - 🔭 I’m currently working on CS50: Harvard Introduction to Computer Science
 - 🌱 I’m currently learning C, Git and GitHub
 - 📫 How to reach me: alexkgilbert@gmail.com
+![8162063103__66378](https://github.com/gilbert-alex/gilbert-alex/assets/118496831/adf08dce-f9bf-419e-8867-7ed47827eace)
