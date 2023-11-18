@@ -14,5 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-- 🔭 I’m currently working on ... CS50
-- 🌱 I’m currently learning ... C, Git and GitHub
+- 🔭 I’m currently working on CS50: Harvard Introduction to Computer Science
+- 🌱 I’m currently learning C, Git and GitHub
+- 📫 How to reach me: alexkgilbert@gmail.com
